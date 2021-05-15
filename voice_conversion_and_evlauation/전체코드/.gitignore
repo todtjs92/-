@@ -1,0 +1,15 @@
+.idea
+__pycache__
+bin
+include
+lib
+lib64
+pyvenv.cfg
+config.py
+runserver.py
+tebear-aws-key-pair.pem
+/static/graph/
+zerospeech/english/test/
+zerospeech/english/train/
+
+*.pt
